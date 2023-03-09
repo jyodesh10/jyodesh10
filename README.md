@@ -1,3 +1,41 @@
+
+![](https://komarev.com/ghpvc/?jyodesh10&color=green)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">Hi, I'm Jyodesh</h1>
 
 <div align="center">
@@ -17,4 +55,4 @@
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jyodesh10"
 />
 
-![](https://komarev.com/ghpvc/?jyodesh10&color=green)
+
