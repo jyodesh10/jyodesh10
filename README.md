@@ -1,36 +1,4 @@
 
-![Visitor Count](https://profile-counter.glitch.me/jyodesh10 /count.svg)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
