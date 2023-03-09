@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?jyodesh10&color=green)
+![Visitor Count](https://profile-counter.glitch.me/jyodesh10 /count.svg)
 
 
 
