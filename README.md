@@ -17,4 +17,4 @@
   src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=jyodesh10"
 />
 
-
+![](https://komarev.com/ghpvc/?jyodesh10&color=green)
