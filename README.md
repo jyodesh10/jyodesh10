@@ -16,10 +16,7 @@
 
 ### Spotify 🎧
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1wsinmrn8mozl85eqr3rpo150&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
-
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1wsinmrn8mozl85eqr3rpo150&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1wsinmrn8mozl85eqr3rpo150&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1wsinmrn8mozl85eqr3rpo150&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
 
 ### Stats
 [![Jyodesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyodesh10&show_icons=true&theme=dracula)](https://github.com/jyodesh10/github-readme-stats)
