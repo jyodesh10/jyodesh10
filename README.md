@@ -15,8 +15,13 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjyodesh10%2F&count_bg=%2379C83D&title_bg=%23555555&icon=mailchimp.svg&icon_color=%23E7E7E7&title=Views&edge_flat=true"/></a>
 
 ### Spotify 🎧
+<a href="https://jyodesh.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark">
+  <img
+    src="https://jyodesh.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
 
-[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1wsinmrn8mozl85eqr3rpo150&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=1wsinmrn8mozl85eqr3rpo150&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)]]
 
 ### Stats
 [![Jyodesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyodesh10&show_icons=true&theme=dracula)](https://github.com/jyodesh10/github-readme-stats)
