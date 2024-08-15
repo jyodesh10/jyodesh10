@@ -4,9 +4,8 @@
 
 
 
-<h1 align="center">Hi, I'm Jyodesh</h1>
 
-
+<img src='/github-header-image.png' width=50% />
 
 ### Spotify 🎧
 <a href="https://jyodesh.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark">
