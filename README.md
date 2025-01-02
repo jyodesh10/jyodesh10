@@ -77,7 +77,7 @@
   <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
 </a>
 
-<a href="https://wa.me/your-whatsapp-number">
+<a href="https://wa.me/+9779813504214">
   <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
 </a>
 
