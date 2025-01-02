@@ -1,11 +1,9 @@
 
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=50&duration=4000&pause=250&color=32F7CD&width=435&height=100&lines=Hello+World!!;+I+am+Jyodesh;Mobile+App+Developer)](https://git.io/typing-svg)
 
 
-
-
-<img src='/github-header-image.png' width=50% />
 
 ### Spotify 🎧
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1wsinmrn8mozl85eqr3rpo150&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
