@@ -59,4 +59,25 @@
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 
+### Connect With Me
+
+<a href="https://www.linkedin.com/in/jyodesh-shakya-ba6a50145/">
+  <img src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://www.facebook.com/zyodesh.10/">
+  <img src="https://img.shields.io/badge/facebook-4267B2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+</a>
+
+<a href="mailto:jyodeshshakya@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
+<a href="https://www.instagram.com/zyodes_10/">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+</a>
+
+<a href="https://wa.me/your-whatsapp-number">
+  <img src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+</a>
 
