@@ -8,12 +8,8 @@
 <img src='/github-header-image.png' width=50% />
 
 ### Spotify 🎧
-<a href="https://jyodesh.pythonanywhere.com?spin=true&scan=true&eq_color=rainbow&theme=dark">
-  <img
-    src="https://jyodesh.pythonanywhere.com"
-    alt="Current Spotify Song"
-  />
-</a>
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=1wsinmrn8mozl85eqr3rpo150&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+
 
 
 ### Stats
